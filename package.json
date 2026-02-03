@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Mbialowas10/DevOpsModule4_Act2#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^4.19.2"
   }
 }
